@@ -633,12 +633,13 @@ div#preload {
   font-size: 18px;
   text-decoration: none;
   color: #254399;
+  text-align: center;
 }
 
 #owner a {
   animation: MoveUpDown 1s linear infinite;
   position: absolute;
-  left: 52%;
+  padding-left: 6px;
   bottom: -1px;
 }
 #owner a:hover {
@@ -749,6 +750,7 @@ div#preload {
   }
   #owner {
     font-size: 28px;
+    text-align: center;
   }
   .alertBtn {
     font-size: 50px;
