@@ -632,7 +632,7 @@ div#preload {
 #owner a {
   font-size: 18px;
   text-decoration: none;
-  color: #ff0000;
+  color: #254399;
 }
 
 #owner a {
@@ -645,6 +645,7 @@ div#preload {
   animation: none;
   text-decoration: underline;
   text-underline-position: under;
+  color: #ff0000;
 }
 
 @keyframes MoveUpDown {
